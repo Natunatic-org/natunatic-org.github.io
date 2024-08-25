@@ -17,15 +17,12 @@ body {
     font-size: 20px;
 }
 
-span, p {
-    color: #407fff;
-}
-
-h6, h5, h4, h3, h2, h1 {
+span, p, h1, h2, h3, h4, h5, h6 {
     color: #407fff;
 }
 
 .btn {
+    outline: none;
     text-decoration: none;
     cursor: pointer;
     color: azure;

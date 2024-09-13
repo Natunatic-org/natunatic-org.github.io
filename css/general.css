@@ -42,6 +42,14 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
+.btn-disabled {
+    background-color: #2033ff;
+}
+
+.btn-disabled:hover {
+    background: #5066ff;
+}
+
 .blog {
     background-color: #ff2020;
 }

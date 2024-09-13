@@ -1,0 +1,9 @@
+.searchbar {
+    overflow: hidden;
+}
+
+#srchbar {
+    background-color: #efefef;
+    outline: none;
+    text-decoration: none;
+}
